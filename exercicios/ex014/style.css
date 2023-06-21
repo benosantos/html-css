@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(19, 185, 185);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+H1{
+    color: blue;
+    background-color: rgb(140, 191, 236);
+}
+h2{
+    color: rgb(194, 18, 141);
+}
+P{
+    color: rgb(8, 1, 1);
+    text-align: justify;
+}
